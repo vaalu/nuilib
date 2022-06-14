@@ -1,6 +1,6 @@
 # NUILIB
 
-This is a Nous UI component library.
+This is a NxUI component library.
 
 ## Pre-requisites
 - Node JS (14 or above)
